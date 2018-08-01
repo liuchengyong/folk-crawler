@@ -1,3 +1,4 @@
 html
 news/data
 news/logs
+node_modules/
